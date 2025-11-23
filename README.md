@@ -1,5 +1,5 @@
 # AccidentsProject
-
+ 
 ## Description
 
 This project predicts accident severity using three 2018 UK road datasets: **Accidents**, **Casualties**, and **Vehicles**. The datasets were merged, cleaned, and preprocessed to handle missing values, outliers, and categorical encoding. The project explores data visualization, feature engineering, and applies multiple machine learning models to predict accident severity.
@@ -31,6 +31,7 @@ Values: 1, 2, 3 (from least to most severe)
 
 * Logistic Regression
 * GaussianNB / BernoulliNB
+* SVC / KNN
 * Decision Tree / Random Forest / ExtraTrees
 * Bagging / AdaBoost / GradientBoosting / HistGradientBoosting
 * XGBoost / CatBoost / LightGBM
@@ -40,5 +41,3 @@ Values: 1, 2, 3 (from least to most severe)
 * Accuracy, Precision, Recall, F1-score
 * Confusion Matrix
 * ROC Curve (One-vs-Rest)
-
-تحبي أعملها؟
