@@ -29,11 +29,9 @@ Values: 1, 2, 3 (from least to most severe)
 
 ## Data Visualization
 
-Explored feature distributions using histograms, boxplots, and bar charts
-
-Investigated relationships between features and Accident_Severity using scatter plots, correlation heatmaps, and count plots
-
-Visualized outliers and trends to aid preprocessing and feature engineering
+* Explored feature distributions using histograms, boxplots, and bar charts
+* Investigated relationships between features and Accident_Severity using scatter plots, correlation heatmaps, and count plots
+* Visualized outliers and trends to aid preprocessing and feature engineering
 
 ---
 
